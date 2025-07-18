@@ -3,6 +3,7 @@
 
 ![App Screenshot](https://github.com/BADAM2001/salarypred_streamlit/blob/fc7dc65b8e56e17c6f2d7f9654eef35738055b23/Screenshot%20(255).png)
 
+![App working](https://github.com/BADAM2001/salarypred_streamlit/blob/fc7dc65b8e56e17c6f2d7f9654eef35738055b23/Screenshot%20(255).png)
 
 ## 📌 Overview
 A Streamlit web application that predicts employee salaries based on characteristics like education level, job title, experience, etc. The app uses a pre-trained machine learning model (scikit-learn) to make predictions.
