@@ -1,6 +1,6 @@
 # Salary Prediction Web App
 
-![App Screenshot]((https://github.com/BADAM2001/salarypred_streamlit/blob/fc7dc65b8e56e17c6f2d7f9654eef35738055b23/Screenshot%20(255).png)) 
+![App Screenshot](https://github.com/BADAM2001/salarypred_streamlit/blob/fc7dc65b8e56e17c6f2d7f9654eef35738055b23/Screenshot%20(255).png)
 *Replace with actual screenshot*
 
 ## 📌 Overview
