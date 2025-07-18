@@ -11,7 +11,7 @@ import pandas as pd
 import streamlit as st
 
 # Load the saved model
-loaded_model = pickle.load(open('salary_prediction_model.sav', 'rb'))
+loaded_model = pickle.load(open('D:/machinelearning files/salary_prediction_model.sav', 'rb'))
 
 # Prediction function
 def salary_prediction(input_data):
