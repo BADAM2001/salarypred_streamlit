@@ -27,6 +27,48 @@ A Streamlit web application that predicts employee salaries based on characteris
 - pip package manager
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/yourusername/salary-prediction-app.git
 cd salary-prediction-app
+
+### 2. Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+### 3. Install dependencies
+pip install -r requirements.txt
+
+### 4. Run the application
+streamlit run app.py
+📂 Project Structure
+text
+salary-prediction-app/
+├── app.py                # Main application code
+├── salary_prediction_model.sav  # Pre-trained ML model
+├── requirements.txt      # Dependency specifications
+└── README.md            # This documentation
+🧠 Model Details
+Algorithm: [Specify if known -  Linear Regression]
+Features Used:
+Gender (Male/Female)
+Education Level (High School, Bachelor, Master, PhD)
+Job Title (Software Engineer, Data Scientist, etc.)
+Age
+Years of Experience
+
+Performance: [Add metrics if available - e.g., R² score:0.87]
+
+🌐 Deployment
+The app can be deployed on:
+Streamlit Community Cloud
+Example deployment to Streamlit Cloud:
+Push your code to GitHub
+Go to Streamlit Community Cloud
+Connect your GitHub repository
+Set main file path to app.py
+Deploy!
+
+🐛 Troubleshooting
+If you encounter the _RemainderColsList error:
+Ensure you're using scikit-learn v1.0.1
+Try clearing cache with streamlit cache clear
+Verify the model file exists in the project root
