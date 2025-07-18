@@ -1,5 +1,5 @@
 # Salary Prediction Web App
-[display text](https://salarypredapp-rz5ccuqks5spbgdwjbxjqq.streamlit.app/#salary-prediction-app)
+[deployment link](https://salarypredapp-rz5ccuqks5spbgdwjbxjqq.streamlit.app/#salary-prediction-app)
 
 ![App Screenshot](https://github.com/BADAM2001/salarypred_streamlit/blob/fc7dc65b8e56e17c6f2d7f9654eef35738055b23/Screenshot%20(255).png)
 
